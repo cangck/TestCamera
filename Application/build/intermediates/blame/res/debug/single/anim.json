@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

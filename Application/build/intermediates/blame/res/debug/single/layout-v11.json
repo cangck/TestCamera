@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v11/notification_media_action.xml"
+    }
+]

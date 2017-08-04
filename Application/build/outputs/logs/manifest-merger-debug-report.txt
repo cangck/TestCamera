@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-v13:25.3.1] /Users/cangck/.android/build-cache/f87b0c954b693699c6261a7d819207ee1bd2f5b6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/cangck/.android/build-cache/ebdf8e68b5c493f302509905196815892566e75f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/cangck/.android/build-cache/1a1c146a6720568a068dafe4cad0d8059a21bb49/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/cangck/.android/build-cache/5311f77eab56afd772ae48b7d79b675b5d8994f8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/cangck/.android/build-cache/5ad9287a184f1d0357b2c63b88ea2605ca401356/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/cangck/.android/build-cache/ef0b35653de3a191438e0814242a825525403e56/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/cangck/.android/build-cache/32215895414d2a7afd00b131bbbb52ca1965b8e9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/cangck/.android/build-cache/031ac5121803b085b56d30110f47d7fbc16e1949/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/cangck/.android/build-cache/0961a845ee62f3d8e7a095fd2c668221d5644179/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/cangck/.android/build-cache/4eeabf7d7029962037b0829659fb981c022c7065/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:26:18-44
+	android:icon
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /Users/cangck/.android/build-cache/f87b0c954b693699c6261a7d819207ee1bd2f5b6/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/cangck/.android/build-cache/ebdf8e68b5c493f302509905196815892566e75f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/cangck/.android/build-cache/1a1c146a6720568a068dafe4cad0d8059a21bb49/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/cangck/.android/build-cache/5311f77eab56afd772ae48b7d79b675b5d8994f8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/cangck/.android/build-cache/5ad9287a184f1d0357b2c63b88ea2605ca401356/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/cangck/.android/build-cache/ef0b35653de3a191438e0814242a825525403e56/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/cangck/.android/build-cache/32215895414d2a7afd00b131bbbb52ca1965b8e9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/cangck/.android/build-cache/031ac5121803b085b56d30110f47d7fbc16e1949/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/cangck/.android/build-cache/0961a845ee62f3d8e7a095fd2c668221d5644179/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/cangck/.android/build-cache/4eeabf7d7029962037b0829659fb981c022c7065/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/cangck/.android/build-cache/f87b0c954b693699c6261a7d819207ee1bd2f5b6/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /Users/cangck/.android/build-cache/f87b0c954b693699c6261a7d819207ee1bd2f5b6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/cangck/.android/build-cache/ebdf8e68b5c493f302509905196815892566e75f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/cangck/.android/build-cache/1a1c146a6720568a068dafe4cad0d8059a21bb49/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/cangck/.android/build-cache/5311f77eab56afd772ae48b7d79b675b5d8994f8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/cangck/.android/build-cache/5ad9287a184f1d0357b2c63b88ea2605ca401356/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/cangck/.android/build-cache/ef0b35653de3a191438e0814242a825525403e56/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/cangck/.android/build-cache/32215895414d2a7afd00b131bbbb52ca1965b8e9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/cangck/.android/build-cache/031ac5121803b085b56d30110f47d7fbc16e1949/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/cangck/.android/build-cache/0961a845ee62f3d8e7a095fd2c668221d5644179/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/cangck/.android/build-cache/4eeabf7d7029962037b0829659fb981c022c7065/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/cangck/.android/build-cache/f87b0c954b693699c6261a7d819207ee1bd2f5b6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /Users/cangck/.android/build-cache/f87b0c954b693699c6261a7d819207ee1bd2f5b6/output/AndroidManifest.xml:26:9-47

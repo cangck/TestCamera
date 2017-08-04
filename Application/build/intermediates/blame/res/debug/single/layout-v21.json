@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cangck/AndroidStudioProjects/android-Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cangck/.android/build-cache/1ace63492e1cda76f4b19f07b049cc4967cc5846/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
